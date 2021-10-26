@@ -25,4 +25,37 @@ header h1 {
 main {
     background-color: white;
     margin: 3% 15%;
+    border-radius: 5px;
+}
+
+nav, .container {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+}
+
+nav {
+    border-bottom: 2px solid #F6F8F9;
+}
+
+#button-task, #button-section {
+    border-radius: 4px;
+    padding: 1%;
+    font-size: 12px;
+}
+
+#button-task {
+    background-color: #6DA9ED;
+    color: white;
+    border:none;
+}
+
+#button-section {
+    background-color: white;
+    color: #C8CCD1;
+    border: 1px solid #C8CCD1;
+}
+
+.container {
+
 }
