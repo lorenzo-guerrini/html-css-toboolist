@@ -41,7 +41,7 @@ nav {
 
 #button-task, #button-section {
     border-radius: 4px;
-    padding: 1%;
+    padding: 0.5% 1%;
     font-size: 12px;
 }
 
@@ -103,7 +103,12 @@ nav {
 }
 
 .etichetta {
-
+    background-color: #6DA9ED;
+    color: white;
+    border:none;
+    border-radius: 10px;
+    padding: 0.5% 1%;
+    font-size: 10px;
 }
 
 .editorial {
