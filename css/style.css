@@ -59,6 +59,7 @@ nav {
 
 .container {
     color: #3F424A;
+    line-height: 35px;
 }
 
 .task {
@@ -103,7 +104,6 @@ nav {
 }
 
 .etichetta {
-    background-color: #6DA9ED;
     color: white;
     border:none;
     border-radius: 10px;
@@ -112,25 +112,25 @@ nav {
 }
 
 .editorial {
-
+    background-color: #6DA9ED;
 }
 
 .q1-goals {
-
+    background-color: #9374DE;
 }
 
 .recruiting {
-
+    background-color: #80BBA9;
 }
 
 .mobile {
-
+    background-color: #E0A147;
 }
 
 .website {
-
+    background-color: #C36C9E;
 }
 
 .sales {
-
+    background-color: #B4C645;
 }
